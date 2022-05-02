@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-div{
+    font-family: 'Courier New', Courier, monospace;
+    background: rgb(87,25,143);
+    background: linear-gradient(90deg, rgba(87,25,143,1) 0%, rgba(233,229,229,1) 100%);
+    color: rgb(99, 100, 118);
+    background-size: 100%;
+    background-position: bottom;
+    border-top:  3px solid gray;
+    position: absolute;
+    right: 0;
+    left: 0;
+    height: 100%;
+   
+
+    
+    
+}
+
+h1{
+    color: white;
+}
+
+.post-list{
+    overflow: hidden;
+    position: relative;
+    margin: 10px;
+    padding: 10px;
+    
+    
+    
+}
